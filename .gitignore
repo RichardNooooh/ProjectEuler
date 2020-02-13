@@ -1,2 +1,6 @@
-# Default ignored files
-/workspace.xml
+#User Information
+.idea/**/workspace.xml
+.idea/**/modules.xml
+ASCIIMemes.iml
+out/
+*.iml
